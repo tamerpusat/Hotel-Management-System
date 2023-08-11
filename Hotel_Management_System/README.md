@@ -1,0 +1,1 @@
+Hotel management system is a program which helps to manage hotel works. Some works are Check-in, Check-out, Room Control etc. and there is now in one system. Hotel staff can handle all of them easily.  
